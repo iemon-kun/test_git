@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+video{
+    border: 1px solid gray;
+    width: 300;
+    height: 300;
+}
